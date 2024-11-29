@@ -29,7 +29,7 @@ class _HomeScreenState extends State<HomeScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Quản lý Chi Tiêu'),
+        title: const Text('Quản lý Chi '),
         actions: [
           IconButton(
             icon: const Icon(Icons.settings),
